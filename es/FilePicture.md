@@ -3,11 +3,6 @@ Primer encabezado | Segundo encabezado
 Celda de contenido | Celda de contenido
 Celda de contenido | Celda de contenido
 
-Primer encabezado | Segundo encabezado
---- | ---
-Celda de contenido | Celda de contenido
-Celda de contenido | Celda de contenido
-
 ![Citadel](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
 
 Alineado a la izquierda | Centro alineado | Alineado a la derecha
@@ -23,7 +18,6 @@ Dillinger es un editor de Markdown HTML5 con tecnología AngularJS, habilitado p
 - magia
 
 # cierto
-фывапролд
 - Importe un archivo HTML y observe cómo se convierte mágicamente a Markdown
 - Arrastra y suelta imágenes (requiere que tu cuenta de Dropbox esté vinculada)
 
